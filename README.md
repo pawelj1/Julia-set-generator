@@ -1,2 +1,4 @@
 # Julia-set-generator
-Project for  on 5th term of Electronics on University of Science and Technology in Cracow. 
+  Celem projektu jest zwizualizowanie zbioru Julii, przy pomocy generatora tego zbioru i ekranu LCD.
+# Analiza problemu
+  Zbiór Julii to szczególny przypadek zbioru Mandelbrota.
