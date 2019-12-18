@@ -12,4 +12,4 @@
 ## Realizacja
   Do realizacji projektu zostaną wykorzystanie:
 - Płytka FRDM-KL05Z
-- Ekran LCD
+- Ekran LCD ST7735
