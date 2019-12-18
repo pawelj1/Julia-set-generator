@@ -11,5 +11,5 @@
   
 ## Realizacja
   Do realizacji projektu zostaną wykorzystanie:
-- Płytka (...)
-- Ekran LCD (...)
+- Płytka FRDM-KL05Z
+- Ekran LCD
